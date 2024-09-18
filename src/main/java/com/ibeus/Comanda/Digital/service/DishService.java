@@ -1,9 +1,9 @@
 package com.ibeus.Comanda.Digital.service;
 
-import com.ibeus.Comanda.Digital.model.Dish;
-import com.ibeus.Comanda.Digital.repository.DishRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import com.ibeus.Comanda.Digital.model.Dish;
+import com.ibeus.Comanda.Digital.repository.DishRepository;
 
 import java.util.List;
 
